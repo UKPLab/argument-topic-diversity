@@ -17,9 +17,9 @@ echo "Description: $description";
 echo "Renaming project..."
 
 original_author="UKPLab"
-original_name="ukp_project_template"
-original_urlname="ukp-project-template"
-original_description="The official template for new Python projects at UKP Lab"
+original_name="argument_topic_diversity"
+original_urlname="argument-topic-diversity"
+original_description="Awesome argument_topic_diversity created by UKPLab"
 # Iterate over all files in the repository
 git ls-files | while read -r filename; do
     # Exclude .github/workflows/rename_project.yml from renaming
