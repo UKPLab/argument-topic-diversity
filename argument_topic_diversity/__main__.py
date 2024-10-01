@@ -1,4 +1,4 @@
-"""Entry point for ukp_project_template."""
+"""Entry point for argument_topic_diversity."""
 
 from .cli import main  # pragma: no cover
 
