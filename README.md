@@ -1,7 +1,3 @@
-<p  align="center">
-  <img src='logo.png' width='200'>
-</p>
-
 # Diversity Over Size: On the Effect of Sample and Topic Sizes for Topic-Dependent Argument Mining Datasets
 [![Arxiv](https://img.shields.io/badge/Arxiv-2205.11472-red?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2205.11472)
 [![License](https://img.shields.io/github/license/UKPLab/ukp-project-template)](https://opensource.org/licenses/Apache-2.0)
@@ -59,9 +55,9 @@ Please use the following citation:
 
 ```
 @inproceedings{
-  anonymous2024diversityoversize,
+  emnlp2024diversityoversize,
   title={Diversity Over Size: On the Effect of Sample and Topic Sizes for Topic-Dependent Argument Mining Datasets},
-  author={Anonymous},
+  author={Schiller, Benjamin and Daxenberger, Johannes and Waldis, Andreas and Gurevych, Iryna},
   booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
   year={2024},
   url={https://openreview.net/forum?id=ZV4HC5Ifuk}
