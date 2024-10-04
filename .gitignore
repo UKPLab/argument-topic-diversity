@@ -136,4 +136,4 @@ dmypy.json
 
 # Project files
 sketch*
-argument_topic_diversity/sketch*
+src/sketch*
