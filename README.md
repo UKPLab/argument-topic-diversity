@@ -4,7 +4,7 @@
 [![Python Versions](https://img.shields.io/badge/Python-3.12-blue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 This repository provides the means to download the newly created **Few-Shot-150T Corpus (FS150T-Corpus)**, introduced in the 
-paper ["Diversity Over Size: On the Effect of Sample and Topic Sizes for Topic-Dependent Argument Mining Datasets"](https://arxiv.org/abs/2205.11472). 
+paper ["Diversity Over Size: On the Effect of Sample and Topic Sizes for Topic-Dependent Argument Mining Datasets"](https://aclanthology.org/2024.emnlp-main.608/). 
 
 > **Abstract:** Topic-Dependent Argument Mining (TDAM), that is extracting and classifying argument components for a specific topic from large document sources, is an inherently difficult task for machine learning models and humans alike, as large TDAM datasets are rare and recognition of argument components requires expert knowledge. The task becomes even more difficult if it also involves stance detection of retrieved arguments. In this work, we investigate the effect of TDAM dataset composition in few- and zero-shot settings. Our findings show that, while fine-tuning is mandatory to achieve acceptable model performance, using carefully composed training samples and reducing the training sample size by up to almost 90% can still yield 95% of the maximum performance. This gain is consistent across three TDAM tasks on three different datasets.
 
