@@ -54,13 +54,23 @@ Download the other corpora used in the paper at:
 Please use the following citation:
 
 ```
-@inproceedings{
-  emnlp2024diversityoversize,
-  title={Diversity Over Size: On the Effect of Sample and Topic Sizes for Topic-Dependent Argument Mining Datasets},
-  author={Schiller, Benjamin and Daxenberger, Johannes and Waldis, Andreas and Gurevych, Iryna},
-  booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
-  year={2024},
-  url={https://openreview.net/forum?id=ZV4HC5Ifuk}
+@inproceedings{schiller-etal-2024-diversity,
+    title = "Diversity Over Size: On the Effect of Sample and Topic Sizes for Topic-Dependent Argument Mining Datasets",
+    author = "Schiller, Benjamin  and
+      Daxenberger, Johannes  and
+      Waldis, Andreas  and
+      Gurevych, Iryna",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.608",
+    pages = "10870--10887",
+    abstract = "Topic-Dependent Argument Mining (TDAM), that is extracting and classifying argument components for a specific topic from large document sources, is an inherently difficult task for machine learning models and humans alike, as large TDAM datasets are rare and recognition of argument components requires expert knowledge. The task becomes even more difficult if it also involves stance detection of retrieved arguments. In this work, we investigate the effect of TDAM dataset composition in few- and zero-shot settings. Our findings show that, while fine-tuning is mandatory to achieve acceptable model performance, using carefully composed training samples and reducing the training sample size by up to almost 90{\%} can still yield 95{\%} of the maximum performance. This gain is consistent across three TDAM tasks on three different datasets. We also publish a new dataset and code for future benchmarking.",
 }
 ```
 
